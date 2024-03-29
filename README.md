@@ -1,3 +1,5 @@
+![screenshot](screenshot.png)
+
 # viakey24
 A small autohotkey program to open an image/keyboard mapping png when clicking. 
 It is very useful when you are not able to memorize all your second layer keys on your 40%, 60% and similar keyboards
@@ -20,8 +22,6 @@ you can change the image and the key used to map
 
 
 viakey24.exe layer.png F24
-
-
 
 
 
